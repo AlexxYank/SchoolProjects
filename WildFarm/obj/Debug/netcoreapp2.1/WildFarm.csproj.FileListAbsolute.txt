@@ -1,0 +1,11 @@
+/Users/AlexWhy/Projects/Polymorphism/WildFarm/bin/Debug/netcoreapp2.1/WildFarm.deps.json
+/Users/AlexWhy/Projects/Polymorphism/WildFarm/bin/Debug/netcoreapp2.1/WildFarm.runtimeconfig.json
+/Users/AlexWhy/Projects/Polymorphism/WildFarm/bin/Debug/netcoreapp2.1/WildFarm.runtimeconfig.dev.json
+/Users/AlexWhy/Projects/Polymorphism/WildFarm/bin/Debug/netcoreapp2.1/WildFarm.dll
+/Users/AlexWhy/Projects/Polymorphism/WildFarm/bin/Debug/netcoreapp2.1/WildFarm.pdb
+/Users/AlexWhy/Projects/Polymorphism/WildFarm/obj/Debug/netcoreapp2.1/WildFarm.csproj.CoreCompileInputs.cache
+/Users/AlexWhy/Projects/Polymorphism/WildFarm/obj/Debug/netcoreapp2.1/WildFarm.AssemblyInfoInputs.cache
+/Users/AlexWhy/Projects/Polymorphism/WildFarm/obj/Debug/netcoreapp2.1/WildFarm.AssemblyInfo.cs
+/Users/AlexWhy/Projects/Polymorphism/WildFarm/obj/Debug/netcoreapp2.1/WildFarm.dll
+/Users/AlexWhy/Projects/Polymorphism/WildFarm/obj/Debug/netcoreapp2.1/WildFarm.pdb
+/Users/AlexWhy/Projects/Polymorphism/WildFarm/obj/Debug/netcoreapp2.1/WildFarm.csprojAssemblyReference.cache
